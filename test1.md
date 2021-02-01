@@ -14,11 +14,7 @@
 <p>Git 常用的是以下 6 个命令：<strong>git clone</strong>、<strong>git push</strong>、<strong>git add</strong> 、<strong>git commit</strong>、<strong>git checkout</strong>、<strong>git pull</strong>，后面我们会详细介绍。</p>
 <p><img src="http://www.ruanyifeng.com/blogimg/asset/2015/bg2015120901.png" style="width:800px;"/></p>
 <p><strong>说明：</strong></p>
-<ul>
-<li>workspace：工作区</li>
-<li>staging area：暂存区/缓存区</li>
-<li>local repository：或本地仓库</li>
-<li>remote repository：远程仓库</li>
+
 
 
 
